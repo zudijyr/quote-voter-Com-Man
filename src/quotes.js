@@ -11,7 +11,7 @@ export const BOOK_A = {
     },
     {
       id: "a3",
-      text: "I started my life with a single absolute: that the world was mine to shape in the image of my highest values and never to be given up to a lesser standard, no matter how long or hard the struggle.”,
+      text: "I started my life with a single absolute: that the world was mine to shape in the image of my highest values and never to be given up to a lesser standard, no matter how long or hard the struggle.",
     },
     {
       id: "a4",
@@ -28,23 +28,15 @@ export const BOOK_B = {
   title: "Book Two", quotes: [
     {
       id: "b1",
-      text: "The history of all hitherto existing society is the history of class struggles. Freeman and slave, patrician and plebeian, lord and serf, guild-master and journeyman, in a word, oppressor and oppressed, stood in constant opposition to one another, carried on an uninterrupted, now hidden, now open fight, a fight that each time ended, either in a revolutionary
-reconstitution of society at large, or in the common ruin of the contending classes.",
+      text: "The history of all hitherto existing society is the history of class struggles. Freeman and slave, patrician and plebeian, lord and serf, guild-master and journeyman, in a word, oppressor and oppressed, stood in constant opposition to one another, carried on an uninterrupted, now hidden, now open fight, a fight that each time ended, either in a revolutionary reconstitution of society at large, or in the common ruin of the contending classes.",
     },
     {
       id: "b2",
-      text: "The modern bourgeois society that has sprouted from the ruins of feudal society has not done
-away with class antagonisms. It has but established new classes, new conditions of oppression,
-new forms of struggle in place of the old ones.",
+      text: "The modern bourgeois society that has sprouted from the ruins of feudal society has not done away with class antagonisms. It has but established new classes, new conditions of oppression, new forms of struggle in place of the old ones.",
     },
     {
       id: "b3",
-      text: "Modern industry has established the world market, for which the discovery of America paved the
-way. This market has given an immense development to commerce, to navigation, to
-communication by land. This development has, in its turn, reacted on the extension of industry;
-and in proportion as industry, commerce, navigation, railways extended, in the same proportion
-the bourgeoisie developed, increased its capital, and pushed into the background every class
-handed down from the Middle Ages.",
+      text: "Modern industry has established the world market, for which the discovery of America paved the way. This market has given an immense development to commerce, to navigation, to communication by land. This development has, in its turn, reacted on the extension of industry; and in proportion as industry, commerce, navigation, railways extended, in the same proportion the bourgeoisie developed, increased its capital, and pushed into the background every class handed down from the Middle Ages.",
     },
   ],
 };
